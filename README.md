@@ -1,7 +1,8 @@
 # IgnizMelange
 
 This mod aims to add some of my desired fixes / adjustments to Ages of Conflict: World War Simulator \
-It utilizes [BepInEx v5.4.23.2](https://github.com/BepInEx/BepInEx) to be loaded into the game.
+It utilizes [BepInEx v5.4.23.2](https://github.com/BepInEx/BepInEx) to be loaded into the game. \
+I am available on the [AOC discord](https://discord.gg/fv3EExm6KY) for any issues. (Whenever I'm not busy)
 
 ## All wars are endless. 
 
