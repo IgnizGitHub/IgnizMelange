@@ -12,7 +12,7 @@ This may be expanded in the future to be more complex.
 
 By default, if two nations go broke, they cannot fight and therefore peace out. \
 I have made a system where gold affects combat effeciency and continues production during wars to help prevent complete stalemate. \
-Stalemates still occur obviously, but without these changes wars would still randomly peace out, or stall for a bit more. \
+Stalemates still occur obviously, but without these changes wars would still randomly peace out, or stall for a bit more. 
 
 A more detailed explanation of how gold works now is like this: 
 1) Gold is still produced during wars, but at 1/3rd value
