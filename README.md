@@ -28,3 +28,11 @@ By default, the two options listed above (Endless wars, and gold changes) are ab
 Located in ```BepInEx/config/org.IgnizHerz.mod.IgnizMelange.cfg``` [Inside the game's directory, (Where you installed BepInEx)](https://www.youtube.com/watch?v=PFt5Jw65jrM) \
 By default, their value is ```true``` and you can change them to be ```false``` if you want to disable them. \
 Hopefully in the future this will be integrated inside the game itself so you can toggle these options in-game. 
+
+## Installation
+You need BepInEx installed, please search the internet for relevant guides, they should generally work for this game. \
+Then download the latest [release](https://github.com/IgnizGitHub/IgnizMelange/releases/tag/Release) of the mod. \
+To install the mod you need to open the zip file and drag the folder called ```BepInEx``` into the game folder with the game's exe file or executable. (A folder named ```BepInEx``` should already exist at this point.) \
+The mod file itself should then be in ```BepInEx/plugins/IgnizMelange```
+
+To know whether or not it worked, there shouldn't be any "peace" in any wars between nations by default. 
